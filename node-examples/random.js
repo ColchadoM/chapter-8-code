@@ -3,5 +3,5 @@ function random (min, max) {
   return (Math.random() * len) + min;
 }
 
-console.log(random(1,7));
+console.log(random(1,70));
 module.exports = random;
